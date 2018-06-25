@@ -1,2 +1,2 @@
 # senate-voting
-voting system for motions in senate
+United states senate voting system for motions.
